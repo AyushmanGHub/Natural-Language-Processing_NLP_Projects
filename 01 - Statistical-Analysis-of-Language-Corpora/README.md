@@ -7,6 +7,13 @@ This project performs statistical analysis of multilingual corpora to verify key
 
 It also analyzes computational resource requirements for large-scale linguistic data. The study uses **English, Gujarati, and Marathi corpora** for comparative analysis.
 
+### Dataset
+The corpora used in this project are too large to include in this repository.  
+You can download them from the following link:  
+
+🔗 [Download Dataset from Mega](https://mega.nz/folder/C3YWzIza#zL-iwFgc2KEPOLAaHVKjpg)
+
+
 ## Problem Statement
 The project aims to extract quantitative insights from multilingual corpora using empirical language laws. Tasks include:
 
