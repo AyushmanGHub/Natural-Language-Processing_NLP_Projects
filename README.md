@@ -7,7 +7,6 @@ This project analyzes English, Gujarati, and Marathi corpora to test key languag
 
 In addition, the study examines **stopwords** by calculating their share among the most frequent words and estimates the **computational cost** of handling large-scale text through vocabulary-document incidence matrices. Results include log-log plots, fitted parameters, and comparative tables.
 
-Overall, the project combines **linguistic insights** with **computational analysis**, highlighting cross-language differences and challenges in multilingual NLP.
 
 ## Project 02. **Lexical and Semantic Space Exploration for Embeddings**
 This project generates and compares sparse (**COALS**) and dense (**SVD**) word embeddings for the **Marathi language** using a large Wikipedia corpus. The approach uses a word co-occurrence matrix and Pearson correlation to create vectors with both algorithms. Embeddings are evaluated by analyzing word similarity, where SVD is shown to effectively reduce dimensionality, with **1108 dimensions capturing 99.99% of the variance**.
