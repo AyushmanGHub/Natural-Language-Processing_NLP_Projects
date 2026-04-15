@@ -13,10 +13,3 @@ This project generates and compares sparse (**COALS**) and dense (**SVD**) word 
 
 The analysis concludes that SVD-based dense vectors provide more semantically coherent representations than the sparse COALS model. This improved quality is attributed to SVD's ability to retain and utilize **negative correlations** from the data, which captures more nuanced lexical relationships than an approach that discards them.
 
----
-## 🤝 Let’s Connect!
-
-I’m always open to meaningful conversations, collaborative projects, and idea exchanges.  
-If you’re interested in exploring new insights, working together on related topics, or contributing to ongoing discussions — feel free to reach out!  
-
-**Let’s learn and build together 🚀**
